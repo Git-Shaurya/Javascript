@@ -27,5 +27,17 @@ myscore++ // here we incremented the value of myscore
 let credit = 100
 credit-- // here we decremented the value of credit
 
+//comparision 
+
+let num1 = 3
+let num2 = 3
+let num3 = 5
+
+console.log(num1 == num2); // compares 
+console.log(num1 != num2);
+console.log(num1 == num3);
+
+
+
 
 
