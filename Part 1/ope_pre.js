@@ -1,1 +1,1 @@
-let score = 2 * 3 + 3 - 1
+let score = 2 * 3 + 3 - 1 //operation precedence.
